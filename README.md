@@ -7,5 +7,5 @@ While Ishan Gottam created this game, he has no legal rights over the photos and
 on the popular game "Angry Birds" by Rovio Entertainment. Any user mistaking for the actual Angry Bird's game by Rovio Entertainment by 
 any user is not the author's, or Ishan Gottam's, liability. Ishan Gottam asserts the right to be identified as the creator of this work.
 By downloading this code, you agree to identify Ishan Gottam as the author of this book. The starter code was provided by White
-Hat Junior. Here is a link the the repository: https://github.com/whitehatjr/AngryBirdsStage2.5StudentActivity
+Hat Junior. Here is a link the the repository: https://github.com/whitehatjr/AngryBirdsStage2.5StudentActivity. 
 By using/downloading this game, you agree to not sue Ishan Gottam on any grounds relating to this game and agree to the terms listed above.
