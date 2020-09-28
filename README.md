@@ -1,6 +1,8 @@
 This game is just like the angry birds that you play on your phone. You simply click and drag to pull the sling back, then release to
 launch. To reset the bird, simply press the space key. 
 
+To play, go to this link: https://ishangcoder.github.io/AngryBirds/
+
 *Legal Advisory*
 This game was created by Ishan Gottam.
 While Ishan Gottam created this game, he has no legal rights over the photos and physics engine used in this game. This game is based
