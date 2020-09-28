@@ -4,6 +4,7 @@ launch. To reset the bird, simply press the space key.
 To play, go to this link: https://ishangcoder.github.io/AngryBirds/
 
 *Legal Advisory*
+
 This game was created by Ishan Gottam.
 While Ishan Gottam created this game, he has no legal rights over the photos and physics engine used in this game. This game is based
 on the popular game "Angry Birds" by Rovio Entertainment. Any user mistaking for the actual Angry Bird's game by Rovio Entertainment by 
